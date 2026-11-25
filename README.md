@@ -181,4 +181,4 @@ Cada comando es texto que termina en salto de línea (`\n`).
 
 Proyecto desarrollado por **Gian Carlos N.** ( 26/11/2026 ).
 
-Licencia: define aquí la licencia que prefieras (por ejemplo, MIT).
+Licencia:  MIT
